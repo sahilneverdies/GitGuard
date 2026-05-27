@@ -2,7 +2,7 @@
 
 Effective Date: `July 18, 2025`
 
-Your privacy is important to us. This policy outlines what data GitGuard may collect and how it is handled:
+Your privacy is important to us. This policy outlines what data GitGuard may collect and how it is handleds:
 
 ### 1. **Data Collected**
 
