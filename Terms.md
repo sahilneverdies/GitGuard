@@ -5,7 +5,7 @@ Effective Date: `July 18, 2025`
 By using GitGuard ("the Bot"), you agree to the following terms:
 
 1. **Usage**:
-   GitGuard is intended to assist with GitHub security, monitoring, or moderation on Discord. You agree to use the bot lawfully and respectfully in accordance with Discord’s [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
+   GitGuard is intended to assist with GitHubs security, monitoring, or moderation on Discord. You agree to use the bot lawfully and respectfully in accordance with Discord’s [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
 
 2. **No Warranty**:
    The bot is provided "as is" without warranty of any kind. We are not liable for any damages or data loss that may occur through use or misuse of the bot.
